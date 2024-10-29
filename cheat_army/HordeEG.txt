@@ -1,0 +1,16 @@
+unit_orc 2
+unit_goblin 2
+unit_naga 2
+unit_gnome 2
+unit_orc 2
+unit_goblin 2
+unit_naga 2
+unit_gnome 2
+unit_orc 2
+unit_goblin 2
+unit_naga 2
+unit_gnome 2
+unit_orc 2
+unit_goblin 2
+unit_naga 2
+unit_gnome 2

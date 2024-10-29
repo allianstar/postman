@@ -1,0 +1,19 @@
+unit_orc 6
+unit_goblin 6
+unit_naga 6
+unit_gnome 6
+
+unit_orc_champion 7
+unit_naga_champion 7
+unit_goblin_champion 7
+unit_gnome_champion 7
+
+unit_imp 7
+unit_infernal 7
+unit_gazer 7 
+unit_succubus 7
+
+unit_banshee 7
+unit_necromancer 7
+unit_skeleton 7
+unit_vampire_queen 7

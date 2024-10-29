@@ -1,0 +1,10 @@
+unit_orc 5
+unit_goblin 5
+unit_naga 5
+unit_gnome 5
+
+unit_imp 5
+unit_infernal 5
+
+unit_banshee 5
+unit_necromancer 5

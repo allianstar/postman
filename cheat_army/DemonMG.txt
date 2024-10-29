@@ -1,0 +1,22 @@
+unit_imp 5
+unit_gazer 4
+unit_infernal 5
+unit_succubus 4
+unit_imp 5
+unit_gazer 4
+unit_infernal 5
+unit_succubus 4
+unit_imp 5
+unit_gazer 4
+unit_infernal 5
+unit_succubus 4
+unit_imp 5
+unit_gazer 4
+unit_infernal 5
+unit_succubus 4
+unit_imp 5
+unit_gazer 4
+unit_infernal 5
+unit_succubus 4
+
+
